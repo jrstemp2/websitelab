@@ -1,0 +1,90 @@
+﻿body{
+    background-color: lightblue;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    display: inline-block;
+    width: 100px;
+    border: 2px groove black;
+    background-color: lightgrey;
+    
+    text-align: center;
+}
+
+.navbar ul li:hover {
+    background-color: lightyellow;
+    border: 5px groove black;
+    font-size: large;
+    font-style: italic;
+}
+
+footer { 
+    
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.maininfo p {
+    display: flex;
+    justify-content: center;
+}
+
+.maininfo ul li {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    font-style: italic;
+}
+
+.john {
+    display:flex;
+    justify-content: center;
+}
+
+#contact {
+    text-align: center;
+    font-size: large;
+    
+
+}
+
+#contact:hover {
+    text-align: center;
+    font-size: larger;
+    
+    
+}
+
+.maininfo a {
+    display: flex;
+    justify-content: center;
+}
+.maininfo a:hover {
+    font-size: larger;
+}
+
+.port {
+    display: flex;
+    justify-content: center;
+}
+.port ul li {
+    display: inline-block;
+    
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
